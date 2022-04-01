@@ -1,4 +1,4 @@
-FROM node:slim
+FROM node:8.1.1-alpine
 
 LABEL MAINTAINER shrayansh jha <shrayansh.jha@capgemini.com>
 
